@@ -486,7 +486,7 @@ h2 {
     #slider__news .item-box__txt span {
       color: #fff !important;
       font-family: "MyriadPro-Regular";
-      font-size: 15px; }
+      font-size: 13px; }
       @media only screen and (min-width: 768px) {
         #slider__news .item-box__txt span {
           font-size: 20px; } }
