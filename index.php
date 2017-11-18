@@ -22,6 +22,7 @@
 		<div class="main-menu">
 			<div class="main-menu__box main-menu__box1">
 				<i class="fa fa-bars" aria-hidden="true"></i>
+				
 			</div>
 
 			<div class="main-menu__box main-menu__box2">
